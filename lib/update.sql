@@ -1,1 +1,1 @@
-UPDATE characters SET species = "Martian" ORDER BY species ASC LIMIT 
+UPDATE characters SET species = "Martian" WHERE species ASC LIMIT 
